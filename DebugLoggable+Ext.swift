@@ -1,3 +1,12 @@
+//
+//  DebugLoggable.swift
+//
+//  Created by Shreyash Shah on 19/07/23.
+//  GPL-3.0 license
+//
+
+import Foundation
+
 extension DebugLoggable {
     
     /// Adds given text after existing loggable contents
