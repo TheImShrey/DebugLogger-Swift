@@ -1,3 +1,12 @@
+//
+//  ConsoleLogger.swift
+//
+//  Created by Shreyash Shah on 19/07/23.
+//  GPL-3.0 license
+//
+
+import Foundation
+
 protocol ConsoleLogger {
     static func log(text: String)
 }
